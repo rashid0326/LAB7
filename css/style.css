@@ -1,11 +1,11 @@
 #main-navbar {
-  background color: light blue; 
+  background color: blue; 
   overflow: hidden;
 }
 
 #main-navbar ul {
   float: left;
-  left: 70%;
+  left: 50%;
   list-style-type: none;               
   margin: 0;                               
   padding: 0;                             
@@ -41,7 +41,7 @@
 }
 
 #sidebar {
-  background-color: grey;
+  background-color: red;
   height: 100%;
   width: 20%;
   position: fixed;
